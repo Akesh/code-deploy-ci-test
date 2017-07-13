@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Executing start_server"
+
